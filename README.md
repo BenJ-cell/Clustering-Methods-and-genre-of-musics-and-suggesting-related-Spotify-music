@@ -6,7 +6,7 @@ Methods used: AffinityPropagation, AgglomerativeClustering, Birch, DBSCAN, KMean
 
 Spotify_Music_Recommendation_System_with_Clustering_between_genres_and_songs_with_preliminary_EDA.ipynb contains:
 
-An Exploratory Data Analysis on the genres of music dataset with 21 feeatures: 'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness',
+An Exploratory Data Analysis on the genres of music dataset with 21 features: 'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness',
        'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo',
        'type', 'id', 'uri', 'track_href', 'analysis_url', 'duration_ms',
        'time_signature', 'genre', 'song_name', 'Unnamed: 0', 'title'
