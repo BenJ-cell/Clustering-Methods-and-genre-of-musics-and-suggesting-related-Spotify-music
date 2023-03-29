@@ -1,4 +1,4 @@
-# Clustering-and-suggesting-Spotify-music
+# Clustering-Methods-and-genre-of-musics-and-suggesting-related-Spotify-music
 
 10_Clustering_Algorithms.ipynb includes 10 methods for unsupervised clustering and their visualisations in 2D.
 
